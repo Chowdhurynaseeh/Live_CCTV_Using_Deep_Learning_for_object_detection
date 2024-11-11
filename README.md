@@ -1,6 +1,6 @@
 # Live CCTV Using Deep Learning for Object Detection
-![image](![image](https://github.com/user-attachments/assets/5bc419c7-064e-4a03-9dcc-840ae337f2fe)
-)
+![image](https://github.com/user-attachments/assets/7d9299d2-0e84-466d-9039-a436fb47aa53)
+
 
 
 This project leverages deep learning techniques to create an intelligent CCTV system capable of detecting and identifying objects and motion in real-time. By integrating object detection with face recognition and motion tracking, the system can monitor entry/exit activity, identify visitors, and track suspicious behaviors or stolen items. This solution can be used in various security applications, from home surveillance to larger security setups, providing an automated, efficient way to monitor live CCTV feeds.
